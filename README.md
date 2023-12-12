@@ -44,4 +44,4 @@ We would like to express our gratitude to [List any contributors or libraries us
 
 ## Contact
 
-For questions or feedback, please contact [Your Name] at [your.email@example.com].
+For questions or feedback, please contact Khirasagar at [khirasagar.maharana8100@gmail.com].
